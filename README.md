@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Unknown
+- 👀 I’m interested in Photography 
+- 🌱 I’m currently learning PCM + CS
